@@ -1,0 +1,8 @@
+{
+  "name": "Mindful Path Psychology",
+  "description": "A professional, warm, and highly polished website for a psychology practice, featuring comprehensive service details, an interactive appointment scheduler, a mental wellness blog, and secure client contact options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
